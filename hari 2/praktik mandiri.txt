@@ -1,7 +1,0 @@
-ini branch featureA , featureB dan development
-ini adalah tugas praktik mandiri prakerja menjadi backend go lang
-ini tugas dari folder clone
-ini jadinya gabungan
-ini conflict dari clone
-ini conflict dari remote
-
