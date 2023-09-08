@@ -1,4 +1,4 @@
-ini branch development
+ini branch featureA dan development
 ini adalah tugas praktik mandiri prakerja menjadi backend go lang
 ini tugas dari folder clone
 ini jadinya gabungan
