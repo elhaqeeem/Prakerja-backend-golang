@@ -1,1 +1,2 @@
 ini adalah tugas praktik mandiri prakerja menjadi backend go lang
+ini tugas dari folder clone
