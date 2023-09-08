@@ -1,0 +1,5 @@
+ini tugas hari ke 2 dengan tugas membuat 
+
+1 program untuk menentukan bilang prima
+2 program untuk menentukan bilangan kelipatan 7
+3 program untuk menghitung luas trapesium
